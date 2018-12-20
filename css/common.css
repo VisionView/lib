@@ -1,3 +1,7 @@
-.text-left {text-align: left;}
-.text-center {text-align: center;}
+/* 版心容器 */
+.container{width:1170px;margin:0 auto;}
+.container-fluid{width: 100%;}
+/* 字体布局 */
+.text-left{text-align: left;}
+.text-center{text-align: center;}
 .text-right{text-align: right;}
